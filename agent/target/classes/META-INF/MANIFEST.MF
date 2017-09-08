@@ -1,0 +1,7 @@
+Manifest-Version: 1.0
+Premain-Class: agent.Agent
+Built-By: vaidehi234
+Can-Retransform-Classes: true
+Build-Jdk: 1.8.0_121
+Created-By: Maven Integration for Eclipse
+
